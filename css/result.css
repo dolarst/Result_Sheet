@@ -1,0 +1,180 @@
+body
+{
+	background:#EEEEEE;
+}
+#main
+{
+	border:1px solid #fff;
+	width:800px;
+	height:auto;
+	margin:0 auto;
+	background:#FFFFFF;
+	border-radius:10px;
+}
+#head
+{
+	border:0px solid #fff;
+	width:780px;
+	height:150px;
+	margin:0 auto;
+	background-image:url(../images/gdhs.gif);
+}
+#head1
+{
+	border:0px solid #ccc;
+	width:780px;
+	height:110px;
+	margin:0 auto;
+	
+}
+#head1 h2
+{
+	color:#000000;
+	padding:10px 20px 0px 150px;
+}
+#head2
+{
+	border:1px solid #ccc;
+	width:780px;
+	height:250px;
+	margin:0 auto;
+	background:#EEEEEE;
+	
+}
+#td
+{
+	width:120px;
+	border:1px solid #fff;
+	line-height:28px;
+}
+#te
+{
+	width:250px;
+	border:1px solid #fff;
+	line-height:28px;
+}
+#fa
+{
+	border:0px solid #ccc;
+	width:780px;
+	height:80px;
+	margin:0 auto;
+}
+#fa h2
+{
+	color:#000000;
+	padding:10px 20px 10px 180px;
+}
+#sub
+{
+	border:0px solid #ccc;
+	width:780px;
+	height:270px;
+	margin:0 auto;
+	
+}
+#co
+{
+	width:220px;
+	border:0px solid #fff;
+	background:#AFB7BE;
+	font-weight:bold;
+	text-align:center;
+}
+#col
+{
+	width:350px;
+	border:0px solid #fff;
+	background:#AFB7BE;
+	font-weight:bold;
+	text-align:center;
+}
+
+#cod
+{
+	width:220px;
+	border:0px solid #fff;
+	background:#AFB7BE;
+	font-weight:bold;
+	text-align:center;
+}
+#cod1
+{
+	width:220px;
+	border:0px solid #fff;
+	background:#EEEEEE;
+	line-height:24px;
+	text-align:center;
+}
+#co1
+{
+	width:220px;
+	border:0px solid #fff;
+	background:#EEEEEE;
+	line-height:24px;
+	text-align:center;
+	
+}
+#cod2
+{
+	width:220px;
+	border:0px solid #fff;
+	background:#DEE1E4;
+	text-align:center;
+}
+#col1
+{
+	width:350px;
+	border:0px solid #fff;
+	background:#EEEEEE;
+	line-height:24px;
+	text-align:center;
+}
+
+#co2
+{
+	width:220px;
+	border:0px solid #fff;
+	background:#DEE1E4;
+	text-align:center;
+}
+#col2
+{
+	width:350px;
+	border:0px solid #fff;
+	background:#DEE1E4;
+	text-align:center;
+}
+
+#bo
+{
+	border:0px solid #ccc;
+	width:500px;
+	height:40px;
+	margin:0 auto;
+}
+#bo a
+{
+	text-decoration:none;
+	padding:20px 0px 10px 350px;
+}
+#boo
+{
+	border:0px solid #ccc;
+	width:780px;
+	height:80px;
+	margin:0 auto;
+	background-image:url(../images/dfhg.gif);
+}
+#lk
+{
+	float:left;
+	text-align:center;
+	width:150px;
+}
+#lo
+{
+	float:left;
+	text-align:center;
+	width:150px;
+}

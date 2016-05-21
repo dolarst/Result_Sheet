@@ -1,0 +1,148 @@
+body
+{
+	margin:0 auto;
+	background-image:url(../images/texture.jpg);
+}
+h1
+{
+	padding:0px;
+	margin:0px;
+	text-align:center;
+	color:white;
+}
+p
+{
+	color:white;
+	font-size:20px;
+	padding:15px 0px 0px 15px;
+	margin:0px;
+}
+#he3 p
+{
+	font-style:italic;
+	color:black;
+	font-size:16px;
+	text-align:center;
+}
+#main
+{
+	border:0px solid #ccc;
+	width:1050px;
+	height:605px;
+	margin:0 auto;
+	background:#0C87E5;
+}
+#head
+{
+	border:0px solid #ccc;
+	width:650px;
+	height:400px;
+	margin:60px 200px 0px  200px;
+	
+}
+#ho
+{
+	border:0px solid #ccc;
+	width:650px;
+	height:314px;
+	margin:0px; 
+	background:#fff;
+	padding:50px 0px 0px 0px;
+}
+#he1
+{
+	border:0px solid #ccc;
+	width:650px;
+	height:50px;
+	margin:0px; 
+	background-image:url(../images/fgdg.gif);
+}
+#he2
+{
+	border:0px solid #ccc;
+	width:500px;
+	height:350px;
+	margin:0px auto; 
+	background:#B8BDC0;
+	border-radius:10px;
+	
+}
+#he3
+{
+	border:0px solid #ccc;
+	width:650px;
+	height:50px;
+	margin:0px; 
+	background-image:url(../images/fgdg.gif);
+	
+}
+#he3 p
+{
+	color:#B8BDC0;
+}
+#a
+{
+	border:0px solid #ccc;
+	width:240px;
+	height:50px;
+	margin:30px 5px; 
+	background:#006766;
+	float:left;
+	border-radius:10px;
+	text-align:center;
+}
+#b
+{
+	border:0px solid #ccc;
+	width:240px;
+	height:50px;
+	margin:30px 5px; 
+	background:#006766;
+	float:right;
+	border-radius:10px;
+	text-align:center;
+}
+#c
+{
+	border:0px solid #ccc;
+	width:240px;
+	height:50px;
+	margin:0px 5px 0px 5px; 
+	background:#006766;
+	float:left;
+	border-radius:10px;
+	text-align:center;
+}
+#d
+{
+	border:0px solid #ccc;
+	width:240px;
+	height:50px;
+	margin:0px 5px 0px 5px;  
+	background:#006766;
+	float:right;
+	border-radius:10px;
+	text-align:center;
+}
+#e
+{
+	border:0px solid #ccc;
+	width:240px;
+	height:50px;
+	margin:30px 5px; 
+	background:#006766;
+	float:left;
+	text-align:center;
+	border-radius:10px;
+}
+#f
+{
+	border:0px solid #ccc;
+	width:240px;
+	height:50px;
+	margin:30px 5px; 
+	background:#006766;
+	text-align:center;
+	float:right;
+	border-radius:10px;
+}
